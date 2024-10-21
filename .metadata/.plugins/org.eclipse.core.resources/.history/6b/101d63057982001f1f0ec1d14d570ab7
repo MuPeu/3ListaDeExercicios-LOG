@@ -1,0 +1,12 @@
+package exercicios;
+
+public class exC_soma {
+
+	public static void main(String[] args) {
+		do {
+			
+		}while();
+
+	}
+
+}

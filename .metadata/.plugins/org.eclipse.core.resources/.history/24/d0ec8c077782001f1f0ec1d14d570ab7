@@ -1,0 +1,12 @@
+package exercicios;
+
+import javax.swing.JOptionPane;
+
+public class exB_tabuada {
+
+	public static void main(String[] args) {
+		int num = Integer.parseInt(JOptionPane.showInputDialog("Digite um número:"));
+
+	}
+
+}

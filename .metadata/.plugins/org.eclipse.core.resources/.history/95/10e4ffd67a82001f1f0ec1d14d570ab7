@@ -1,0 +1,23 @@
+package exercicios;
+
+public class exD_somaDosPares {
+
+	public static void main(String[] args) {
+		int rest, i = 0, num = 0;
+		
+		do {
+			rest = i % 2;
+			if (rest == 0) {
+				num+= i;
+			}
+			System.out.println(num);
+			i++;
+
+			
+		}while(i <= 500);
+		
+		System.out.println("\nA soma dos 100 primeiros números naturais, é: " + num);
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class exB_tabuada {
+
+	public static void main(String[] args) {
+		int i = 0;
+		
+		System.out.print("Digite um Número: ");
+		int num = Integer.parseInt(JOptionPane.showInputDialog("Digite um número:"));
+		
+		do {
+			
+			
+		}while(i == 10);
+
+	}
+
+}

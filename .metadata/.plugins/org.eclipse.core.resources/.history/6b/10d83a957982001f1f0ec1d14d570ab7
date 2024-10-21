@@ -1,0 +1,16 @@
+package exercicios;
+
+public class exC_soma {
+
+	public static void main(String[] args) {
+		int i = 0, num = 0;
+		do {
+			num+= i;
+			System.out.println(num);
+			i++;
+			
+		}while(i <= 100);
+
+	}
+
+}

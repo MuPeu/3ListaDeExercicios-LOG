@@ -1,0 +1,22 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class exB_tabuada {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner ()
+		
+		int i = 0;
+		
+		System.out.print("Digite um Número: ");
+		int num = teclado.
+		
+		do {
+			
+			
+		}while(i == 10);
+
+	}
+
+}

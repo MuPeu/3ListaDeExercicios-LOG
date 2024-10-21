@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\1DT\Desktop\Murilo\Murilo Rangel - LOG - Terceira Lista de Exercicios\.metadata\.plugins\org.eclipse.jdt.core
+3617674871.index
+3186337219.index
+1865797976.index
